@@ -10,7 +10,7 @@ The solutions to a problem could be given in more than one languages(c,c++,java,
 
 #Questions:
 
-Question 1 : (http://topcoder.bgcoder.com/print.php?id=745)    
+**Question 1**: (http://topcoder.bgcoder.com/print.php?id=745)    
 
     ### Problem Statement
 
@@ -24,4 +24,4 @@ is being printed as
 
 Your task is to unscramble a String  **line**  from its printed form back into its original order. You can assume that  **line**  contains an even number of characters.
 
-[Solution 1](https://github.com/Prachal80/Competitive-coding/tree/master/Question%201)
+**[Solution 1]**(https://github.com/Prachal80/Competitive-coding/tree/master/Question%201)
