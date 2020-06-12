@@ -6,5 +6,9 @@ Some of the questions were asked in the interview questions in some of the top c
 
 The solutions to a problem could be given in more than one languages(c,c++,java,python)
 
-    Question 1 : [Problem 1 folder]([./Question%201]
-(http://topcoder.bgcoder.com/print.php?id=745)    
+
+
+#Questions:
+
+Question 1 : (http://topcoder.bgcoder.com/print.php?id=745)    
+[Solution 1](https://github.com/Prachal80/Competitive-coding/tree/master/Question%201)
